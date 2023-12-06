@@ -1,7 +1,8 @@
 name: library_publish_raf
-description: A new Flutter project.
+description: This is a test library.
 version: 1.0.0+1
-homepage:
+homepage: https://github.com/muksiturrahman/library_publish
+repository: https://github.com/muksiturrahman/library_publish
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
